@@ -8,5 +8,6 @@ public class MyApp {
         System.out.println("Hello Git");
          System.out.println("file has been modified");
          System.out.println("add third code");
+         System.out.println("edit from github");
     }
 }
